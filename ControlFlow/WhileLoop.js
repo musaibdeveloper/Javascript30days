@@ -16,13 +16,13 @@
 
 // // Example 1
 
-let i = 0;
+// let i = 0;
 
-while(i<5){
-    i++
-    console.log(i);
+// while(i<5){
+//     i++
+//     console.log(i);
     
-}
+// }
 
 
 // // Here in the example the loops runs until the condition become false.
@@ -31,9 +31,9 @@ while(i<5){
 
 const number = +prompt("Enter the number");
 
-let count = 0;
+let count = 10;
 
-while(count <= 10){
+while(count <= 0){
      const product = number * count;
      console.log(product)
     count ++
@@ -44,12 +44,12 @@ while(count <= 10){
 
 
 // Do While Loop.
-let i = 5;
-do{
-console.log(i);
-i ++; 
-}while(i<=4){
+// let i = 5;
+// do{
+// console.log(i);
+// i ++; 
+// }while(i<=4){
 
-}
+// }
 
 // DO while works first with do code and check the condition later and if the condition is true, it get executed again and if it's false it stops the code. 
