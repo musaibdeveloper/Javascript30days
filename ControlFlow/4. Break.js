@@ -2,21 +2,21 @@
 
 // Break statement is used to stop the code immediatelty
 
-// for (let i =1 ; i <=5 ; i ++){
-//     break; 
-//     console.log(i);
+for (let i =1 ; i <=5 ; i ++){
+    break; 
+    console.log(i);
     
 // }
 
 // The above breaks the loops and gives the output nothing as the first commands is break and the compiler exits the loop.
 
-// for (let i = 1; i<=10; i++){
-//     if(i==7){
+for (let i = 1; i<=10; i++){
+    if(i==7){
         
-//         break;
-//     }
-//     console.log(i);
-// }
+        break;
+    }
+    console.log(i);
+}
 
 // Here in the above the break statement works when the if condition get true, the loop stop. 
 
