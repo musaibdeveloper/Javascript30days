@@ -16,13 +16,13 @@
 
 // // Example 1
 
-// let i = 0;
+let i = 0;
 
-// while(i<5){
-//     i++
-//     console.log(i);
+while(i<5){
+    i++
+    console.log(i);
     
-// }
+}
 
 
 // // Here in the example the loops runs until the condition become false.
@@ -44,11 +44,11 @@ while(count <= 0){
 
 
 // Do While Loop.
-// let i = 5;
-// do{
-// console.log(i);
-// i ++; 
-// }while(i<=4){
+let i = 5;
+do{
+console.log(i);
+i ++; 
+}while(i<=4){
 
 // }
 
