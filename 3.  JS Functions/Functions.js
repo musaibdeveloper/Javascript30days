@@ -40,7 +40,7 @@ Greeting();
 // Function increases readability.
 
 
-// 2. Function Parameters:
+
 
 
 
