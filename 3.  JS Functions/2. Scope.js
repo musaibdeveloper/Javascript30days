@@ -34,3 +34,7 @@ console.log(fname); // error.
 The above code is the same. but the varaible whivh is declare is outside the function and the variable can be used anywhere in the code. 
 
 */
+
+
+// let and const are used inside the block of the function, it can't be used outside the function block.
+// var can be used outside the block of the function. 
