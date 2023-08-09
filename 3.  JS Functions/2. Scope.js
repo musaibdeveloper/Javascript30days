@@ -2,12 +2,6 @@
 
 // 1. Local scope which is alos callled as Block scope.
 
-
-
-
-
-
-
 function name (){
     let fname = "syed";
     console.log(fname);
